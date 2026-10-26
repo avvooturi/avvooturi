@@ -4,22 +4,26 @@
 
 <p align="center">
   <b>Arjun Vooturi</b><br/>
-  Full-stack development · desktop apps · AI tooling<br/>
-  Computer Science, UCF · M.S. Analytics, Georgia Tech
+  Software development · Python · TypeScript · AI tools<br/>
+  B.S. Computer Science, UCF · M.S. Analytics, Georgia Tech (in progress)
 </p>
 
-I like building tools I actually use. Lately that's meant working on desktop apps, experimenting with AI integrations, and figuring out how to make the things I build more reliable.
+I like building tools I actually use. Most of my recent work has been in Python, TypeScript, and full-stack development, with a focus on making small ideas useful and reliable.
 
-### projects
+### featured project
 
-| project | what it does | built with |
-|:--|:--|:--|
-| [jarvis](https://github.com/avvooturi/jarvis) | desktop voice assistant with speech recognition, tool routing, and persistent memory | Python, SQLite |
-| bible focus | distraction-resistant Bible reading app | Electron, React, TypeScript |
-| meeting copilot | meeting notes and contextual assistance | TypeScript |
+**[jarvis](https://github.com/avvooturi/jarvis)** — a Python desktop voice assistant.
 
-<sub>Bible Focus and Meeting Copilot are personal projects in progress. I'll link them once they're ready to share.</sub>
+It brings together speech recognition, request routing, a desktop interface, and persistent memory using SQLite. I'm using it to explore how AI features fit into a practical desktop workflow.
 
-### tools I use
+I also have stuff I'm building in private repos! [Two projects in progress!]
 
-Python · TypeScript · JavaScript · React · Next.js · FastAPI · PostgreSQL · SQLite · Git · Docker
+### technologies
+
+**Languages:** Python, TypeScript, JavaScript, Java, SQL  
+**Web:** React, Next.js, FastAPI, Node.js  
+**Data and tools:** PostgreSQL, SQLite, Git, Docker, Linux
+
+### background
+
+I studied Computer Science at UCF and am now pursuing an M.S. in Analytics at Georgia Tech. Outside of coursework, I spend time on backend development, system design, and making the software I write easier to maintain.
