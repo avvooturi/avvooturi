@@ -1,44 +1,38 @@
- 
-# Hey, I'm Arjun! 👋
+<!-- A simple banner + stats layout inspired by developer profiles I like. -->
+<p align="center">
+  <a href="https://github.com/avvooturi"><b>github.com/avvooturi</b></a>
+</p>
 
-### Full-Stack Software Engineer | AI Applications | Georgia Tech OMSA
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avvooturi&style=for-the-badge&color=1f6feb&label=views" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/avvooturi?style=for-the-badge&color=1f6feb" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/avvooturi?style=for-the-badge&color=1f6feb" alt="GitHub followers" />
+</p>
 
-I'm a software developer passionate about building intelligent applications, full-stack platforms, and tools that solve real-world problems.
+<p align="center">
+  <img src="./banner.png" width="850" alt="Arjun Vooturi — desktop apps, full-stack development, AI tools" />
+</p>
 
-Currently pursuing my Master's in Analytics at Georgia Tech and expanding my experience in software engineering and AI development.
+<p align="center">
+  <b>Computer Science @ UCF &nbsp;·&nbsp; M.S. Analytics @ Georgia Tech</b><br/>
+  Mostly working with Python, TypeScript, React, FastAPI, and PostgreSQL.
+</p>
 
-### 🛠️ Tech Stack
+---
 
-**Languages:** Python, TypeScript, JavaScript, Java, SQL
+### projects
 
-**Frontend:** React, Next.js, HTML, CSS
+| project | what it is | stack |
+|:--|:--|:--|
+| [jarvis](https://github.com/avvooturi/jarvis) | desktop voice assistant with speech recognition, tools, and local memory | Python, SQLite |
+| bible focus | distraction-resistant Bible reading app | Electron, React, TypeScript |
+| meeting copilot | meeting notes and contextual assistance | TypeScript |
 
-**Backend:** FastAPI, Node.js, REST APIs
+<sub>The last two are works in progress. I'll link them when the repos are ready to share.</sub>
 
-**Databases:** PostgreSQL, SQLite
+### github stats
 
-**Tools:** Git, GitHub, Docker, Linux
-
-### 🚀 Featured Projects
-
-**[Jarvis](https://github.com/avvooturi/jarvis)**
-
-AI-powered desktop voice assistant featuring speech recognition, intelligent request routing, persistent memory, and a desktop interface.
-
-**Bible Focus**
-
-Desktop application designed to encourage distraction-free Bible reading through focused reading sessions.
-
-**Meeting Copilot**
-
-AI-powered meeting assistant designed to support note-taking and contextual assistance during meetings.
-
-### 🎯 Currently Working On
-
-- Building and refining AI-powered desktop applications.
-- Improving my software engineering and system design skills.
-- Exploring applied machine learning and analytics through Georgia Tech's OMSA program.
-
-### 📫 Connect With Me
-
-- [GitHub](https://github.com/avvooturi)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avvooturi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&icon_color=7AA2F7" alt="Arjun's GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=avvooturi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="49%" />
+</p>
