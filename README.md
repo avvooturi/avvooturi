@@ -1,38 +1,25 @@
-<!-- A simple banner + stats layout inspired by developer profiles I like. -->
-<p align="center">
-  <a href="https://github.com/avvooturi"><b>github.com/avvooturi</b></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avvooturi&style=for-the-badge&color=1f6feb&label=views" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/avvooturi?style=for-the-badge&color=1f6feb" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/followers/avvooturi?style=for-the-badge&color=1f6feb" alt="GitHub followers" />
-</p>
-
 <p align="center">
   <img src="./banner.png" width="850" alt="Arjun Vooturi — desktop apps, full-stack development, AI tools" />
 </p>
 
 <p align="center">
-  <b>Computer Science @ UCF &nbsp;·&nbsp; M.S. Analytics @ Georgia Tech</b><br/>
-  Mostly working with Python, TypeScript, React, FastAPI, and PostgreSQL.
+  <b>Arjun Vooturi</b><br/>
+  Full-stack development · desktop apps · AI tooling<br/>
+  Computer Science, UCF · M.S. Analytics, Georgia Tech
 </p>
 
----
+I like building tools I actually use. Lately that's meant working on desktop apps, experimenting with AI integrations, and figuring out how to make the things I build more reliable.
 
 ### projects
 
-| project | what it is | stack |
+| project | what it does | built with |
 |:--|:--|:--|
-| [jarvis](https://github.com/avvooturi/jarvis) | desktop voice assistant with speech recognition, tools, and local memory | Python, SQLite |
+| [jarvis](https://github.com/avvooturi/jarvis) | desktop voice assistant with speech recognition, tool routing, and persistent memory | Python, SQLite |
 | bible focus | distraction-resistant Bible reading app | Electron, React, TypeScript |
 | meeting copilot | meeting notes and contextual assistance | TypeScript |
 
-<sub>The last two are works in progress. I'll link them when the repos are ready to share.</sub>
+<sub>Bible Focus and Meeting Copilot are personal projects in progress. I'll link them once they're ready to share.</sub>
 
-### github stats
+### tools I use
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avvooturi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&icon_color=7AA2F7" alt="Arjun's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=avvooturi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="49%" />
-</p>
+Python · TypeScript · JavaScript · React · Next.js · FastAPI · PostgreSQL · SQLite · Git · Docker
